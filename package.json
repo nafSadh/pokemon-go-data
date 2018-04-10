@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-go-data",
+  "version": "0.9.0",
+  "description": "Community sourced Pokemon GO game data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "go",
+    "pokemon",
+    "pokemon",
+    "data",
+    "data"
+  ],
+  "author": "nafSadh",
+  "license": "BSD-2-Clause"
+}
